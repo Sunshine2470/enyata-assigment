@@ -1,0 +1,90 @@
+
+body{
+	background-color: #c71585;
+	color: #FFFFFF;
+
+}
+p {font-family: calibri light;
+}
+
+.container{
+	font-family: calibri light;
+	text-align: center;
+	margin-top: 70px;
+}
+.heading h3{
+	font-family: calibri light;
+	font-size: 30px; 
+}
+
+.heading p {
+	text-transform: capitalize;
+}
+
+.button {
+	border-collapse: collapse;
+	border-radius: 4px;
+	cursor: pointer;
+	height: 35px;
+	width: auto;
+	background-color: white;
+	color: #c71585;
+}
+
+form span input{
+	width: 500px;
+}
+form input{
+	width: 233px;
+	height: 30px;
+}
+form{
+	position: relative;
+	top: -40px;
+}
+
+.heading span{
+	position: relative;
+	top: -30px;
+}
+.div2 h3{
+	font-family: calibri light;
+	font-size: 30px; 
+}
+.div2{
+	position: relative;
+	top: -30px
+	;
+}
+.div2 p{
+	position: relative;
+	top: -25px;
+}
+
+}
+.img{
+	margin-top: 15px;
+	position: relative;
+	top: -30px;
+}
+
+.img > p > i {
+	margin: 0px 15px 0px 15px;
+}
+
+#top-nav {
+	height: 10px;
+	font-size: 15px;
+}
+
+#gabriellink {
+	float: left;
+}
+#sun {
+	float: right;
+}
+#sunn {
+	float: right;
+	margin: 0px 45px 0px 10px;
+	
+}
